@@ -1,0 +1,1 @@
+@include('auth2.register2')
